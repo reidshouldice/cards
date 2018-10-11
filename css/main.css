@@ -56,6 +56,10 @@ html {
 }
 
 .cards div {
+  text-align: center;
+}
+
+.cards a {
   display: inline-block;
   padding: .5em .75em;
   background-color: #ccc;
