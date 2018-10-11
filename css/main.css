@@ -1,6 +1,6 @@
 html {
-  font-family: serif;
-  line-height: normal;
+  font-family: inherit;
+  line-height: inherit;
   box-sizing: border-box;
 }
 
