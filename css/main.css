@@ -1,7 +1,8 @@
 html {
-  font-family: inherit;
-  line-height: inherit;
   box-sizing: border-box;
+  background-color: #f2f2f2
+  font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
